@@ -1,4 +1,6 @@
-package com.devsuperior.dslist.services;
+package com.devsuperior.dslist.dto;
+
+
 
 import org.springframework.beans.BeanUtils;
 
